@@ -7,13 +7,21 @@ For this project, you will use regression modeling to analyze house sales in a n
 This project uses the King County House Sales dataset, which can be found in  `kc_house_data.csv` in the data folder in this repo. The description of the column names can be found in `column_names.md` in the same folder.
 
 • Price : House Sold price (78k $ to 3.07m $ )
+
 • Bedrooms : House of bedrooms ( 3 to 10 )
+
 • Square living feet : Footage of the house (370 to 13.540)
+
 • Square lot feet: Footage of the lot ( 520 to 130.680)
+
 • Waterfront: House which has a view to a waterfront
+
 • View : House has been viewed
+
 • Zipcode : Zip
+
 • Condition: How good the condition is ( Overall )
+
 
 ## Model
 
